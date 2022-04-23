@@ -2,7 +2,7 @@
 
 The following commands are added:
 
-- `mvnag-empty` - create an empty Apache Maven project
+- `mvn-archetype-generate-empty` - create an empty Apache Maven project
 - `mvn-wrapper-add` - add Apache Maven wrappper
 
 ## Installation
