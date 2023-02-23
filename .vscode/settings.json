@@ -1,0 +1,20 @@
+{
+    "editor.rulers": [120], 
+    "editor.formatOnSave": true,
+    "java.cleanup.actionsOnSave": [
+        "addFinalModifier", 
+        "addDeprecated",
+        "addOverride"
+    ],
+    "java.eclipse.downloadSources": true,
+    "java.foldingRange.enabled": true,
+    "java.format.enabled": true,
+    "java.maven.downloadSources": true,
+    "java.sources.organizeImports.starThreshold": 99,
+    "java.sources.organizeImports.staticStarThreshold": 99, 
+    "java.completion.importOrder": [
+        "#",
+        ""
+    ], 
+    "java.saveActions.organizeImports": true
+}
