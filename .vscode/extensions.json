@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "vscjava.vscode-java-pack", 
+        "vscjava.vscode-lombok", 
+        "streetsidesoftware.code-spell-checker", 
+        "jebbs.plantuml", 
+        "mutantdino.resourcemonitor", 
+        "SonarSource.sonarlint-vscode"
+    ]
+}
